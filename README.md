@@ -103,7 +103,7 @@ Ask the other organizers if you need the heroku remote.
 ```
 
 (_7/11/23_)
-* if first time - `npm i -g heroku` to install heroku CLI
+* if first time - `npm i -g heroku` to [install heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 * run `heroku login`
 * press any key to continue
@@ -111,4 +111,4 @@ Ask the other organizers if you need the heroku remote.
 * click "login"
 * you will now be logged in with your credentials from the browser
 
-* run `yarn deploy`
+* run `npm run deploy`
