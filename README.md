@@ -89,6 +89,8 @@ These objects are dynamically accessed for the current speaker lineup, so it's i
 
 ## Deploy
 
+(_Deprecated_)
+```bash
 The website is deployed on Heroku. All you should need to do is:
 
 * set a `heroku` git remote
@@ -96,3 +98,17 @@ The website is deployed on Heroku. All you should need to do is:
 
 Ask the other organizers if you need the heroku remote.
 
+* visit heroku.com to login
+* use google authenticator mobile
+```
+
+(_7/11/23_)
+* if first time - `npm i -g heroku` to install heroku CLI
+
+* run `heroku login`
+* press any key to continue
+* it will take you to the browser
+* click "login"
+* you will now be logged in with your credentials from the browser
+
+* run `yarn deploy`
