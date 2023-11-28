@@ -32,7 +32,7 @@ const Header = () => (
       <strong>designer professionals</strong>
     </p>
     <p className="title-4">
-      Every <strong>second Tuesday</strong> hosted at&nbsp;<a
+      Every <strong>third Tuesday</strong> hosted at&nbsp;<a
         href="https://www.google.com/maps?client=firefox-b-1-d&output=search&q=scale+new+orleans&entry=mc&sa=X&ved=2ahUKEwiwl-y_5M__AhUAm2oFHSY_Aq4Q0pQJegQIBBAB"
         target="_blank"
         rel="noopener noreferrer"
